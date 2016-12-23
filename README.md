@@ -1,2 +1,4 @@
 # PyQT---Random-number
-PyQT testing
+
+
+Started with static numbers , will add changeable range
