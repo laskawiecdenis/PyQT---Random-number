@@ -1,4 +1,4 @@
-# PyQT---Random-number
+# PyQT Random number generator
 
-
-Started with static numbers , will add changeable range
+## Initial version
+>Started with static numbers , will add changeable range
