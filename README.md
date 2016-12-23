@@ -2,3 +2,4 @@
 
 ## Initial version
 >Started with static numbers , will add changeable range
+>![Init version](screenshots/screen1.png "Just the simple PyQT design")
