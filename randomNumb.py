@@ -16,12 +16,6 @@ except AttributeError:
 
 class Ui_Form(QtGui.QWidget):
 
-    def random_number(self):
-        self.numb = random.randint(1,100)
-        print(self.numb)
-        return int(self.numb)
-
-
     def button_clicked(self):
         sender = self.sender()
         self.numbs = random.randint(1,100);self.numbs = self.numbs
